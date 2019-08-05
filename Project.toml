@@ -1,0 +1,4 @@
+name = "Wavetable"
+uuid = "c5f5609e-b791-11e9-1ebb-ab19da1d0e84"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
